@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Truepele001
 - 👀 I’m interested in Machine Learning & Data Analysis
-- 🌱 I’m currently learning Python taught by Dr. Chuck
+- 🌱 I’m currently learning Python taught by Dr. Chuck as I do some projects on the side. 
 - I'm currently working on coming up with a personal website as my first project (Doing it to understand javascript)
 - 💞️ I’m looking to collaborate in the future in C++, Python & Java projects
 - 📫 How to reach me ...DMs open on X @_hunt_er
