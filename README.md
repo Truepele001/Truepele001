@@ -6,6 +6,7 @@
 - 📫 How to reach me ...DMs open on X @_hunt_er & Discord @pinch6006
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can write "Hello World!"
+:-)
 
 <!---
 Truepele001/Truepele001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
