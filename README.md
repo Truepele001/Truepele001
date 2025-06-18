@@ -8,7 +8,7 @@
 - ⚡ Fun fact: I can write "Hello World!"
 - pwasonga254@gmail.com
 - wasonga@bricklabsai.org
-:-)
+
 
 <!---
 Truepele001/Truepele001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
