@@ -4,10 +4,10 @@
 - I'm currently working on coming up with a personal website in building my first react page.
 - 💞️ I’m looking to collaborate in the future in React, C++, Python & Java projects
 - 📫 How to reach me ...DMs open on X @_hunt_er & Discord @pinch6006
-- pwasonga254@gmail.com
-- wasonga@bricklabsai.org
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can write "Hello World!"
+- pwasonga254@gmail.com
+- wasonga@bricklabsai.org
 :-)
 
 <!---
