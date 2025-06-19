@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Truepele001
-- 👀 Currently attached to bricklabsai.org
+- 👀 Currently industrially attached to bricklabsai.org
 - 🌱 I’m currently learning under the CTO of BrickLabsAI as I do some projects on the side. 
 - I'm currently working on coming up with a personal website in building my first react page.
 - 💞️ I’m looking to collaborate in the future in React, C++, Python & Java projects
