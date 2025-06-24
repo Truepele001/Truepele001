@@ -4,7 +4,7 @@
 - I'm currently working on coming up with a personal website in building my first react page.
 - 💞️ I’m looking to collaborate in the future in React, C++, Python & Java projects
 - 📫 How to reach me ...DMs open on X @_hunt_er & Discord @pinch6006
-- ⚡ Fun fact: I can write "Hello World!"
+- ⚡ Fun fact: I can write "Hello World..."
 - pwasonga254@gmail.c
 - wasonga@bricklabsai.org    
 
