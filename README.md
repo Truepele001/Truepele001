@@ -5,11 +5,10 @@
 - 💞️ I’m looking to collaborate in the future in React, C++, Python & Java projects
 - 📫 How to reach me ...DMs open on X @_hunt_er & Discord @pinch6006
 - ⚡ Fun fact: I can write "Hello World!"
-- pwasonga254@gmail.com
-- wasonga@bricklabsai.org
+- pwasonga254@gmail.c
+- wasonga@bricklabsai.org    
 
-Truepele001 
-
+Truepele001121
 
 <!---
 Truepele001/Truepele001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
