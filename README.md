@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate in the future in React, C++, Python & Java projects
 - 📫 How to reach me ...DMs open on X @_hunt_er & Discord @pinch6006 and mails below
 - ⚡ Fun fact: I can write "Hello World..."
-- pwasonga254@gmail.c
+- pwasonga254@gmail.com
 - wasonga@bricklabsai.org    
 
 Truepele001121
