@@ -6,7 +6,8 @@
 - ⚡ Fun fact: I can write "Hello World....."
 - 📫 How to reach me ...DMs open on X @_hunt_er & Discord @pinch6006 and mails below
 - pwasonga254@gmail.com
-- wasonga@bricklabsai.org    
+- wasonga@bricklabsai.org
+- a   
 
 Truepele001121
 
