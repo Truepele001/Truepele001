@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning under the CTO of BrickLabsAI (Industry supervisor) as I do some projects on the side. 
 - I'm currently working on coming up with a personal website in building my first react page. (Shipped)
 - 💞️ I’m looking to collaborate in the future in React, C++, Python & Java projects.
-- ⚡ Fun fact: I can write "Hello World....."
+- ⚡ Fun fact: I can write "Hello World...."
 - 📫 How to reach me ...DMs open on X @_hunt_er & Discord @pinch6006 and mails below
 - pwasonga254@gmail.com
 - wasonga@bricklabsai.org
