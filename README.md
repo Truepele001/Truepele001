@@ -1,4 +1,3 @@
-
 - 👋 Hi; I’m @Truepele00145
 - - 👀 Currently interning at bricklabsai.org
 - 🌱 I’m currently learning under the CTO of BrickLabsAI (Industry supervisor) as I do some projects on the side. 
