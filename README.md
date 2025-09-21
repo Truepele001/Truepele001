@@ -1,5 +1,5 @@
 - 👋 Hi; I’m @Truepele001
-- - 👀 Currently interning at bricklabsai.org
+- - 👀 Currently interning at bricklabsai.orgs
 - 🌱 I’m currently learning under the CTO of BrickLabsAI (Industry supervisor) as I do some projects on the side. 
 - I'm currently working on coming up with a personal website in building my first react page. (Shipped this)
 - 💞️ I’m looking to collaborate in the future in React, Typescript, NodeJs, C++, Python & Java projects.
